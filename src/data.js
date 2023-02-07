@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "Password Generator",
-    subtitle: "JavaScript",
+    title: "Clubhouse Caddie",
+    subtitle: "MERN",
     description:
-      "A simple, user interactive password generator application.",
-    image: "./password.png",
-    link: "https://mmuugii.github.io/Password-Generator-App/",
+      "A full stack application where the user can order food, drinks and golf supplies to your location.",
+    image: "./Caddie.png",
+    link: "https://sleepy-lake-08417.herokuapp.com/",
   },
   {
     title: "Space Zone",
@@ -32,12 +32,12 @@ export const projects = [
     link: "https://mmuugii.github.io/Weather-App/",
   },
   {
-    title: "Quiz",
-    subtitle: "JavaScript",
+    title: "Progressive Text Editor",
+    subtitle: "Express & Webpack",
     description: 
-    "A quiz application to test your JavaScript knowlegde",
-    image: './quiz.png',
-    link: "https://mmuugii.github.io/Class-Quiz-Generator/",
+    "A progressive web application that is usable offline and can be downloaded to any device.",
+    image: './pwa.png',
+    link: "https://powerful-citadel-61159.herokuapp.com/",
   },
   {
     title: "Note Application",
