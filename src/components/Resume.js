@@ -14,7 +14,7 @@ export default function Resume() {
             Attached is a copy of my resume. Please feel free to grab!
           </p><br></br>
           <button className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            <a href="./MMunkhbold_Resume.pdf" download = "MMunkhbold_Resume.pdf">
+            <a href="./MMuugii_Resume.pdf" download = "MMuugii_Resume.pdf">
               Download Resume
             </a>
           </button>

@@ -50,10 +50,18 @@ export const projects = [
 ];
 
 export const skills = [
+  "Full Stack Development",
+  "Front End Development",
+  "Back End Development",
   "JavaScript",
   "React",
   "MongoDB",
   "NodeJS",
   "GraphQL",
   "ExpressJS",
+  "RESTful API",
+  "Python",
+  "Django",
+  "HTML/CSS",
+  "Git",
 ];

@@ -12,7 +12,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Over the course of my time at the coding bootcamp, I have worked with numerous technologies, and gained knowledge using a wide range of various frameworks and databases.
+            Over the course of my time at the bootcamp, I have worked with numerous technologies, and gained knowledge using a wide range of various frameworks and databases.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

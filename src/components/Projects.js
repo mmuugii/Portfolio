@@ -12,7 +12,7 @@ export default function Projects() {
             Applications I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            The following is a small sample of the many applications that I have built during my time at University of Denver Full Stack Coding Bootcamp.
+            The following is a small sample of the many applications that I have built and collaborated on.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

@@ -10,10 +10,10 @@ export default function About() {
             <br className="hidden lg:inline-block" />I like software development.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Hello, my name is Muugii Munkhbold, and I am a current student at the University of Denver Full Stack Flex Coding Bootcamp. Please follow along my coding journey as I learn more and develop my skills. 
+            Hello, my name is Muugii Munkhbold, and I am a Full Stack Software Developer based out of Seattle, Wa. Please follow along my coding journey as I learn more and develop my skills. 
           </p>
           <p>
-            My background is in earth sciences, more specifically geology and geo-chemistry. I have worked in the civil engineering industry for the past 4 years as a CAD Designer. Over the summer of 2022, I decided to act on my interests and passion, and enroll at the University of Denver's Full Stack Coding Bootcamp. Over the course of the bootcamp, I have learned and gotten to work on many new concepts and frameworks such as React, MongoDB, GraphQL, REST & RESTful APIs, NodeJS, ExpressJS, HTML, CSS, JavaScript, Bootstrap, JQuery and many more.
+            My background is in earth sciences, more specifically geology and geo-chemistry. I have worked in the civil engineering industry for the past 5 years as a CAD Designer. Over the summer of 2022, I decided to act on my interests and passion, and enroll at the University of Denver's Full Stack Software Development Bootcamp. Over the course of the bootcamp, I have learned and gotten to work on intimately with JavaScript and frameworks such as React, MongoDB, GraphQL, REST & RESTful APIs, NodeJS, ExpressJS, HTML, CSS, JavaScript, Bootstrap, JQuery and many more. I graduated from the bootcamp in February of 2023 with flying colors and am currently looking for an opportunity to showcase my expertise working in the Software Development industry.
           </p>
           <br></br>
           <div className="flex justify-center">
