@@ -24,12 +24,12 @@ export const projects = [
     link: "https://mmuugii.github.io/Daily-Planner/",
   },
   {
-    title: "Weather Dashboard",
+    title: "Weather.4",
     subtitle: "React",
     description:
       "A weather application where you can see various details in any given city",
-    image: "./weather.png",
-    link: "https://mmuugii.github.io/Weather-App/",
+    image: "./weather4.png",
+    link: "https://weather-4.netlify.app",
   },
   {
     title: "Progressive Text Editor",
